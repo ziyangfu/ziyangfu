@@ -1,6 +1,4 @@
 ### Hi there 👋
-[![ziyangfu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziyangfu)](https://github.com/anuraghazra/github-readme-stats)
-
 - I'm interest in middleware and Linux kernel
 - coding language: C++, C, python
 
